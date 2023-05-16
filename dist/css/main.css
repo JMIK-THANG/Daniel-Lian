@@ -79,6 +79,9 @@ img {
   #main-footer .footer-content .fas {
     margin-bottom: 20px; }
 
+#photography .img-gallery:hover {
+  opacity: .8; }
+
 @media (max-width: 500px) {
   #home-a .home-content {
     flex-direction: column; }
